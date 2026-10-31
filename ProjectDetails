@@ -4,3 +4,15 @@ Command-Line Word & Character Counter + JSON Logger
 
 What it does?
  It reads a sentence or a text file, counts words, characters, and vowels, and logs past analyses into a local JSON or text file so you can review your history.
+
+Thing I learnt building it:
+
+
+What You Will Learn
+
+• Input/Output (input(), file handling): Reading user input or loading a .txt file.
+• Strings & Methods: Using .lower(), .strip(), and character iteration.
+• Data Structures (Dictionaries & Lists): Storing frequency counts or session logs.
+• Control Flow & Loops: while loops for a menu system.
+• JSON Serialization (json module): Saving and loading data from disk.
+• Functions & Scope: Organizing code into clean, reusable blocks.
