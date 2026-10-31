@@ -1,2 +1,6 @@
 
 Project Name- Command-Line Word & Character Counter + JSON Logger
+Command-Line Word & Character Counter + JSON Logger
+
+What it does?
+ It reads a sentence or a text file, counts words, characters, and vowels, and logs past analyses into a local JSON or text file so you can review your history.
